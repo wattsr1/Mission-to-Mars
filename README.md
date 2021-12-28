@@ -11,7 +11,7 @@ Using Python code created in Jupyter notebook, a script to collect recent posts 
 
 ### Example of the Mission to Mars webpage
 
-<img src="Resources/Mars_Mission_Webpage.png" width="1000" height="1000">
+<img src="Resources/Mars_Mission_Webpage.png" width="1000" height="800">
 
 ### Appended Mission to Mars project
 
@@ -19,7 +19,7 @@ The initial webpage was functional but upon further inspection there was additio
 
 ### Example of the appended Mission to Mars webpage
 
-<img src="Resources/ Mar_Mission_Webpage_appended.png" width="1000" height="800">
+<img src="Resources/ Mar_Mission_Webpage_appended.png" width="1000" height="1000">
 
 ## Summary
 
