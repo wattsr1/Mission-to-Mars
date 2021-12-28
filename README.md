@@ -17,7 +17,7 @@ Using Python [code](Mission_to_Mars_Challenge/Mission_to_Mars_Challenge.ipynb) c
 
 ### Appended Mission to Mars project
 
-The initial webpage was functional but upon further inspection there was additional information that was required to improve the users experience.  Looking at the hemisphere data is was determined that further information related to the image would help the inform the user of what they were looking at.  Fortunately on the website there was text that contained a description of each image that was available.  The scraping [script](Mission_to_Mars_Challenge_Appended/scraping_appended.py) was adapted to extract this additional information and store it in the Mongo database along with the other data for the hemispheres of Mars which could be accessed by a flask [app](Mission_to_Mars_Challenge_Appended/app_appended).  
+The initial webpage was functional but upon further inspection there was additional information that was required to improve the users experience.  Looking at the hemisphere data is was determined that further information related to the image would help the inform the user of what they were looking at.  Fortunately on the website there was text that contained a description of each image that was available.  The scraping [script](Mission_to_Mars_Challenge_Appended/scraping_appended.py) was adapted to extract this additional information and store it in the Mongo database along with the other data for the hemispheres of Mars which could be accessed by a flask [app](Mission_to_Mars_Challenge_Appended/app_appended.py).  
 
 ### Example of the appended Mission to Mars webpage
 
